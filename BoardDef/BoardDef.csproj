@@ -71,34 +71,41 @@
     <Reference Include="System.Windows.Browser" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="App.xaml.cs">
+    <Compile Include="UC\App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
     <Compile Include="Classes\Classes.cs" />
+    <Compile Include="UC\GamePlace.xaml.cs">
+      <DependentUpon>GamePlace.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Classes\Structurez.cs" />
     <Compile Include="Classes\TheGame.cs" />
-    <Compile Include="Dados.xaml.cs">
+    <Compile Include="UC\Dados.xaml.cs">
       <DependentUpon>Dados.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TheBoard.xaml.cs">
+    <Compile Include="UC\TheBoard.xaml.cs">
       <DependentUpon>TheBoard.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <ApplicationDefinition Include="App.xaml">
+    <ApplicationDefinition Include="UC\App.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </ApplicationDefinition>
-    <Page Include="Dados.xaml">
+    <Page Include="UC\GamePlace.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Dictionary1.xaml">
+    <Page Include="UC\Dados.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="TheBoard.xaml">
+    <Page Include="UC\Dictionary1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UC\TheBoard.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

@@ -11,3 +11,17 @@ D:\Games\THeboardGameengineLastONe\BoardDef\BoardDef\obj\Debug\BoardDef.dll
 D:\Games\THeboardGameengineLastONe\BoardDef\BoardDef\obj\Debug\BoardDef.pdb
 D:\Games\THeboardGameengineLastONe\BoardDef\BoardDef\obj\Debug\XapCacheFile.xml
 D:\Games\THeboardGameengineLastONe\BoardDef\BoardDef\obj\Debug\Dados.g.cs
+D:\ Game\Board2\BoardDef\Bin\Debug\BoardDef.dll
+D:\ Game\Board2\BoardDef\Bin\Debug\BoardDef.pdb
+D:\ Game\Board2\BoardDef\Bin\Debug\AppManifest.xaml
+D:\ Game\Board2\BoardDef\Bin\Debug\BoardDef.xap
+D:\ Game\Board2\BoardDef\Bin\Debug\BoardDefTestPage.html
+D:\ Game\Board2\BoardDef\obj\Debug\BoardDef.csprojResolveAssemblyReference.cache
+D:\ Game\Board2\BoardDef\obj\Debug\BoardDef.g.resources
+D:\ Game\Board2\BoardDef\obj\Debug\BoardDef.dll
+D:\ Game\Board2\BoardDef\obj\Debug\BoardDef.pdb
+D:\ Game\Board2\BoardDef\obj\Debug\XapCacheFile.xml
+D:\ Game\Board2\BoardDef\obj\Debug\UC\App.g.cs
+D:\ Game\Board2\BoardDef\obj\Debug\UC\GamePlace.g.cs
+D:\ Game\Board2\BoardDef\obj\Debug\UC\Dados.g.cs
+D:\ Game\Board2\BoardDef\obj\Debug\UC\TheBoard.g.cs

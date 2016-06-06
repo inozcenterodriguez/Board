@@ -1,0 +1,21 @@
+﻿<Application xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             x:Class="BoardDef.App"
+             >
+    <Application.Resources>
+
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Dictionary1.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+            <ControlTemplate x:Key="ButtonControlTemplate1" TargetType="Button">
+                <Grid>
+                    <Grid.Background>
+                        <ImageBrush Stretch="UniformToFill" ImageSource="Images/Dados.png"/>
+                    </Grid.Background>
+                </Grid>
+            </ControlTemplate>
+        </ResourceDictionary>
+
+    </Application.Resources>
+</Application>
