@@ -1,0 +1,6 @@
+D:\Games\THeboardGameengineLastONe\BoardDef\BoardDef.Web\bin\BoardDef.Web.dll.config
+D:\Games\THeboardGameengineLastONe\BoardDef\BoardDef.Web\bin\BoardDef.Web.dll
+D:\Games\THeboardGameengineLastONe\BoardDef\BoardDef.Web\bin\BoardDef.Web.pdb
+D:\Games\THeboardGameengineLastONe\BoardDef\BoardDef.Web\obj\Debug\BoardDef.Web.csprojResolveAssemblyReference.cache
+D:\Games\THeboardGameengineLastONe\BoardDef\BoardDef.Web\obj\Debug\BoardDef.Web.dll
+D:\Games\THeboardGameengineLastONe\BoardDef\BoardDef.Web\obj\Debug\BoardDef.Web.pdb

@@ -1,0 +1,29 @@
+﻿<UserControl x:Class="BoardDef.TheBoard"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="300" d:DesignWidth="400" Width="800" Height="1200" HorizontalAlignment="Center">
+
+    <Grid x:Name="LayoutRoot" Background="White" Width="800" HorizontalAlignment="Center" Margin="0,10,0,587">
+        <Canvas x:Name="CanvasOne" Width="600" Height="600" VerticalAlignment="Top" HorizontalAlignment="Left" >
+            <Canvas.Background>
+                <ImageBrush Stretch="Fill" ImageSource="/Images/ImageBoard.png"/>
+            </Canvas.Background>
+
+        </Canvas>
+        <Canvas x:Name="Canvas2" Width="200" Height="300" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="600,0,0,0" >
+            <Canvas.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Images/Panel1Back.png"/>
+            </Canvas.Background>
+
+        </Canvas>
+        <Canvas x:Name="Canvas3" Width="200" HorizontalAlignment="Left" Margin="600,300,0,0" Height="300" VerticalAlignment="Top" >
+            <Canvas.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Images/Panel2Back.png"/>
+            </Canvas.Background>
+
+        </Canvas>
+    </Grid>
+</UserControl>
